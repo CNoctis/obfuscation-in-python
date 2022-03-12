@@ -3,7 +3,7 @@ import os
 
 
 # Usar el directorio donde se encuentre el texto a modificar
-path_folder = r"C:\Users\Cristian\Documents\Python"
+path_folder = r"C:\Users\"
 os.chdir(path_folder)
 
 # Función offuscar hace el texto más dificil de entender/leer, recibe un archivo .txt
